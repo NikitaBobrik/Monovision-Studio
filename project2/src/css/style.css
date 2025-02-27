@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: 200;
+}
+
+.big {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+}
+
+.small {
+    font-size: small;
+}
+
+.kurs {
+    font-style: italic;
+}
